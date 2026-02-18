@@ -1,0 +1,19 @@
+{
+  "name": "migration-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "front-matter": "^4.0.2",
+    "fs-extra": "^11.3.3",
+    "mysql2": "^3.17.2"
+  }
+}
